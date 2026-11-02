@@ -1,0 +1,14 @@
+{
+  "data": {
+    "version": "2.1.1",
+    "endpoints": [
+      {
+        "identifier": "credentials",
+        "url": "https://pumpflexuk-sys.github.io/PumpFlex-Policy/ocpi/credentials.json"
+      }
+    ]
+  },
+  "status_code": 1000,
+  "status_message": "OK",
+  "timestamp": "2026-11-02T12:00:00Z"
+}
